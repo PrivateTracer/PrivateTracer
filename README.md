@@ -1,4 +1,4 @@
-# PrivateTracer (Still figuring out under what license the code should be published)
+# PrivateTracer (Still figuring out under what open source license the code should be published)
 
 From global intelligent lockdown to a global intelligent opening. We must all do this together.
 
