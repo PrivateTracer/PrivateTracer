@@ -1,6 +1,8 @@
-# PrivateTracer
+# PrivateTracer (Still figuring out under what license the code should be published)
 
-The goal is to enable citizens to track who they have been in contact with, and then to receive notifications when contacts are later diagnosed as infected. This breaks the chain of transmission - thus empowering them to take appropriate actions. And to do this while preserving privacy.
+From global intelligent lockdown to a global intelligent opening. We must all do this together.
+
+The goal is to enable citizens to track who they have been in contact with, and then to receive notifications when contacts are later diagnosed as infected. This breaks the chain of transmission - thus empowering them to take appropriate actions. And to do this while preserving privacy. 
 
 Context
 Tracking of connections between citizens in the context of tracking the spread of infections is a critical tool as societies adapt to the impact of Covid 19. This applies both during the suppression phase where large parts of society are shut down to reduce social connections which while reducing interactions does not fully eliminate them, but even more so as society ramps back up after it is clear that the peak of virus infections has been sufficiently flattened.
